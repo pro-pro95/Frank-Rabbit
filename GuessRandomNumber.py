@@ -1,3 +1,5 @@
+# A guessing game
+
 import random
 
 def guess (x):
