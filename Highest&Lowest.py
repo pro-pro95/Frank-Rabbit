@@ -1,3 +1,5 @@
+# Code to find the highest and lowest number from a set of user responses.
+
 largest = None
 smallest = None
 while True:
