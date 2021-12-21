@@ -1,3 +1,5 @@
+# Grade prompt
+
 def result () :
     score = input ("Enter Score:")
 
@@ -28,6 +30,3 @@ def result () :
         result()
 
 result ()
-
-#simplest code yet. Good job! Let's keep going at it!
-# a little more elegant!
