@@ -1,4 +1,4 @@
-#Hourly Rate
+# Pay Rate calculation with overtime calculation conditional
 
 def computepay (h, r):
     return payrate
