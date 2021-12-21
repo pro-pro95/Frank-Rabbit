@@ -1,4 +1,4 @@
-# Line count
+# Line count from a text file
 
 fname = input("Enter file name: ")
 if len(fname) < 1:
