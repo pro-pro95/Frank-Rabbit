@@ -1,3 +1,5 @@
+# Code to calculate email average spam confidence
+
 fname = input("Enter file name: ")
 fh = open(fname)
 count = 0
@@ -17,4 +19,3 @@ spam = confidence/count
 
 print ("Average spam confidence:", spam)
 
-#loop/conditional mix
